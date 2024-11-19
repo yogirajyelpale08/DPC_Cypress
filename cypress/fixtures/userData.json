@@ -1,0 +1,23 @@
+{
+  "validClintID": {
+    "ClintID": "validUser"
+
+  },
+  "invalidClintID": {
+    "username": "invalidUser"
+    
+  },
+  "emptyClintID": {
+    "username": "invalidUser"
+    
+  },
+  "validUser": {
+    "username": "validUser",
+    "password": "validPassword"
+  },
+  "invalidUser": {
+    "username": "invalidUser",
+    "password": "invalidPassword"
+  }
+  
+}
